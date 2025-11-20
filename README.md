@@ -1,2 +1,1 @@
-# KimJaeyeon
-KimJaeyeon Repository
+# KimJaeYeon's Algorithm Note
